@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Viccenzo: Bacharel ciencia da computacao</Text>
+      <Text>Eu comecei o curso superior em 2023 e terminarei em 2027</Text>
       <StatusBar style="auto" />
     </View>
   );
